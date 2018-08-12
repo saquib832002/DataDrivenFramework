@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5957" started-at="2018-08-12T17:21:23Z" finished-at="2018-08-12T17:21:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5957" started-at="2018-08-12T17:21:23Z" finished-at="2018-08-12T17:21:29Z">
+      <class name="com.qtpselenium.core.ddf.testcases.myDummyTestA">
+        <test-method status="PASS" signature="testA()[pri:0, instance:com.qtpselenium.core.ddf.testcases.myDummyTestA@37d31475]" name="testA" duration-ms="5752" started-at="2018-08-12T13:21:23Z" finished-at="2018-08-12T13:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qtpselenium.core.ddf.testcases.myDummyTestA@37d31475]" name="afterTest" is-config="true" duration-ms="173" started-at="2018-08-12T13:21:29Z" finished-at="2018-08-12T13:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qtpselenium.core.ddf.testcases.myDummyTestA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,3 @@
+com\qtpselenium\core\ddf\util\DataUtil.class
+com\qtpselenium\core\ddf\util\ExtentManager.class
+com\qtpselenium\core\ddf\util\Xls_Reader.class
