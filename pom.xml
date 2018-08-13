@@ -123,9 +123,6 @@
                <configuration>
                <source>1.8</source>
     		   <target>1.8</target>
-                 <forkCount>3</forkCount>
-    			 <reuseForks>true</reuseForks>
-    			 <argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
                   <suiteXmlFiles>
                      <suiteXmlFile>testng.xml</suiteXmlFile>
                   </suiteXmlFiles>
