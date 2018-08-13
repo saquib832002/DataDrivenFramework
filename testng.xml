@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+<test name="myDDF">
+    <classes>
+        <class name="com.qtpselenium.core.ddf.testcases.myDummyTestA" ></class>  
+    </classes>
+</test>
+</suite>
